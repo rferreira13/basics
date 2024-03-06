@@ -18,4 +18,4 @@ Directories:
     
 Commands:
 
-    uname   - https://www.ibm.com/docs/en/aix/7.2?topic=u-uname-command
+> [uname](https://www.ibm.com/docs/en/aix/7.2?topic=u-uname-command)
