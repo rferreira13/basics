@@ -23,3 +23,5 @@ Any detail about linux kernel
 
 > [sudo](https://kb.iu.edu/d/amyi#:~:text=The%20sudo%20command%20allows%20you,which%20the%20system%20administrator%20configures.)
 Execute commands as super user
+
+test commit
