@@ -60,3 +60,13 @@ Concatenates or displays files
 
 > [grep](https://www.ibm.com/docs/en/aix/7.2?topic=g-grep-command)
 Searches for a pattern in a file
+
+
+Pipe commands:
+
+> "|"
+
+> ">"
+
+> Redirect stderr: Us
+
