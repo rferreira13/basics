@@ -125,6 +125,38 @@ mount requires a super user. Use the command:
 
 > sudo umount /mnt/external_hd
 
+List all mounted devices with mounting pints
+
+> df -h
+
+---
+
+[Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html)
+
+https://docs.kernel.org/subsystem-apis.html
+
+https://www.linux.org/
+
+List essential system binaries
+
+> ls /sbin
+
+- fdisk - Partition disks
+- fsck - check disks
+- mkfs - format disks
+- ifup
+- ifdown
+
+List command binaries
+
+> ls /bin
+
+- fdisk - Partition disks
+- fsck - check disks
+- mkfs - format disks
+- ifup
+- ifdown
+
 ---
 
 Package management 
